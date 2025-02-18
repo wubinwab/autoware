@@ -78,7 +78,7 @@ repositories:
   launcher/autoware_launch:
     type: git
     url: https://github.com/wubinwab/autoware_launch.git
-    version: 09c6eb08109045ebdb35a159f44affb150e58fc3
+    version: edebbcd73e9844ce726d1316d3451ad1d40668be
   sensor_component/external/sensor_component_description:
     type: git
     url: https://github.com/tier4/sensor_component_description.git
